@@ -1,16 +1,14 @@
-## Hi there 👋
+Timothy J. Xeriland, PhD
+Interdisciplinary Psychologist | Human–AI Interaction | Quantitative & Computational Research
 
-<!--
-**xeriland/Xeriland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research explores human cognition, emotion regulation, and interactions with intelligent systems, with particular attention to the role of quantitative and computational methods in understanding human behavior.
 
-Here are some ideas to get you started:
+Formative Reappraisal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I developed Formative Reappraisal, an emotion-regulation approach designed to support re-engagement following disengagement in learning environments. Originally investigated in my doctoral research, the concept continues to inform my work on human–AI interaction and adaptive intelligent systems.
+
+Research & Technical Projects
+- Statistical simulation and Monte Carlo methods
+- Predictive modeling and applied quantitative analysis
+- Human–AI interaction and intelligent learning systems
+- Computational approaches to behavioral research
